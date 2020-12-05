@@ -38,7 +38,7 @@ check_login();
 			<div class="container-fluid">
 
 				<div class="row">
-					<div class="col-md-12">
+					<div class="col-md-12"><br><br>
 
 						<h2 class="page-title">Dashboard</h2>
 
@@ -157,9 +157,7 @@ $stmt2->close();
 
 </body>
 
-<div class="foot"><footer>
-<p> Brought To You By <a href="https://code-projects.org/">Code-Projects</p>
-</footer> </div>
+
 
 
 <style> .foot{text-align: center; border: 1px solid black;}</style>
